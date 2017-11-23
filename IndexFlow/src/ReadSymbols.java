@@ -6,7 +6,7 @@ import java.io.IOException;
 public class ReadSymbols {
 
 	public void prepareURL(){
-		 String csvFile = "D:\\JavaLearn\\IndexFlow\\AllSymbols.csv";
+		 String csvFile = "AllSymbols.csv";
 	        BufferedReader br = null;
 	        String line = "";
 	        String cvsSplitBy = ",";
